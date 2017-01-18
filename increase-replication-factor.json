@@ -1,0 +1,2 @@
+{"version":1,
+"partitions":[{"topic":"vnk-clst","partition":0,"replicas":[0,1,2]}]}
